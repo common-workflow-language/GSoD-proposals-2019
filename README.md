@@ -1,5 +1,5 @@
 # GSoD-proposals-2019
-This repository contains the proposed Google Season of Docs projects. Please see [announcement](https://github.com/common-workflow-language/GSoD-proposals-2019/announcement.md) for details about GSoD.
+This repository contains the proposed Google Season of Docs projects. Please see [announcement](announcement.md) for details about GSoD.
 
 ## About Common Workflow Langugae
 The [Common Workflow Language](https://www.commonwl.org/) (CWL) is a specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments. CWL is designed to meet the needs of data-intensive science, such as Bioinformatics, Medical Imaging, Astronomy, Physics, and Chemistry.
