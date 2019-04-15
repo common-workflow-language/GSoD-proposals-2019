@@ -7,6 +7,15 @@ The [Common Workflow Language](https://www.commonwl.org/) (CWL) is a specificati
 ## For potential applicants
 Welcome! Thanks for considering doing a project with CWL. Please look through the available projects in this repo and contact the mentors. Feel free to propose your own projects too!
 
+Proposals:
+- [Add background information about scientific workflow system](scientific-workflow-system/scientific-workflow-system.md)
+- [Compile BioStar questions into FAQs](turn-biostar-questions-into-faq/biostar.md)
+
+Ideas:
+- Furnish general documentation
+- Expand the user guide
+- Documentation of other projects in the ecosystem
+
 ## For mentor
 
 If you have a project in mind and want to volunteer to become a mentor please fork this repo, add information about your proposed project in a new directory and start a pull request.
