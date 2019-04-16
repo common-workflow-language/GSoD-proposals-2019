@@ -1,5 +1,5 @@
 # Turn biostar questions into faqs
-Contact: Tony (tony at tony.tc)
+Contact: Tony Yang and Kaushik Ghose ([email](mailto:common-workflow-language-gsod-2019@googlegroups.com))
 
 ## Project description
 [BioStar](https://www.biostars.org/t/cwl/) is CWL's main point of contact for support and questions. However, many questions are in discussion style and can be hard to distill the answer quickly. Also, on a biology focused platform means users from other disciplines are excluded.  
